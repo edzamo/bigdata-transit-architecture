@@ -1,0 +1,9 @@
+# Insumos originales del cliente (contienen datos personales/transcripciones) — no publicar
+informacion-entregada/
+
+# Entorno local
+.env
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
