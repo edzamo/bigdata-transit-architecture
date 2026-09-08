@@ -7,6 +7,8 @@ Diagnóstico de los gaps señalados por el tutor sobre la arquitectura del proye
 
 > ⚠️ **Hoy.** El tutor pidió ver el ecosistema armado **hoy martes 8 de septiembre**, con al menos **70% de avance técnico**. Sin ese avance, la materia se reprueba. La decisión de entorno (sección 3) no puede esperar.
 
+> ✅ **Actualización 08-sept-2026.** El cliente confirmó: **on-premise con Docker**, no se usará ningún proveedor cloud. Alcance de tesis tratado como **POC/MVP**. Diagrama de arquitectura y patrones aplicados en `entregables/02-arquitectura-onpremise.md`.
+
 ---
 
 ## 1. Qué existe hoy
