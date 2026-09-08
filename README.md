@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+# bigdata-transit-architecture
+big data ecosystem poc
+=======
 # Bigdata Transit Architecture
 
 Diseño de un ecosistema de Big Data (arquitectura de medalla — Bronze / Silver / Gold) aplicado a un caso de analítica de tránsito: comparación de rutas críticas entre Nueva York (dataset TLC) y Quito.
@@ -14,3 +18,4 @@ Python · PySpark · MinIO (S3-compatible) · Apache Airflow · Power BI — con
 
 ---
 Nota: los insumos originales del proyecto (transcripciones, notebook del estudiante, documento de tesis) se mantienen fuera de este repositorio por confidencialidad.
+>>>>>>> aa4dc4d (Diagnóstico inicial y decisión de arquitectura del ecosistema Big Data)
